@@ -11,7 +11,7 @@
 # Depends: bash, curl, tor, macchanger, openvpn, net-tools
 # Maintainer: MARTO <marto.endpoint@gmail.com>
 # Description: Herramienta de anonimato extremo para Kali Linux.
-# Incluye cambio de MAC, VPN, Tor, DNS custom, restablecer valores y limpieza de logs.
+# Incluye cambio de MAC, VPN, Tor, DNS custom, restablecer y limpieza de logs.
 
 
 INTERFAZ=$(ip -o link show | awk -F': ' '{print $2}' | grep -E '^[a-zA-Z0-9]+$' | grep -v 'lo' | head -n 1)
