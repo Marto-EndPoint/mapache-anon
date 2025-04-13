@@ -52,7 +52,7 @@ Para que la VPN funcione, necesitás:
 
 ---
 
-## 🧼 ¿Qué hace?
+## 🦝 ¿Qué hace?
 
 - Cambia tu MAC aleatoriamente.
 - Cambia DNS a DNS.Watch.
