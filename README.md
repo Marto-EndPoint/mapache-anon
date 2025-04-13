@@ -66,6 +66,38 @@ Como mover el `.ovpn` desde `Descarcas`. te posicionas en `Descargas` y colocas
 
 ---
 
+## 🌐 Configurar el navegador para usar Tor (SOCKS v5)
+
+Si querés navegar de forma anónima luego de ejecutar `mapache-anon`, podés configurar tu navegador para que todo el tráfico pase por **Tor**.
+
+### 🔧 Firefox u otros navegadores compatibles
+
+1. Abrí tu navegador.
+2. En la barra de direcciones, escribí:
+   ```
+   about:preferences#general
+   ```
+3. Bajá hasta **Configuración de red** y hacé clic en **"Configuración..."**.
+4. Elegí **"Configuración manual del proxy"**.
+5. Completá los campos:
+
+   - **SOCKS Host:** `127.0.0.1`  
+   - **Puerto:** `9050` (o `9150` si estás usando el navegador Tor)  
+   - Marcá **SOCKS v5**  
+   - Activá la opción **"Proxy DNS cuando se use SOCKS v5"** (si está disponible)
+
+6. Hacé clic en **Aceptar**.
+
+### ✅ Verificar si estás navegando por Tor
+
+Entrá a:  
+👉 [https://check.torproject.org](https://check.torproject.org)
+
+Si todo está OK, verás un mensaje como:  
+> 🟢 **"Congratulations. This browser is configured to use Tor."**
+
+---
+
 ## ☠️ Advertencia
 
 Este script es solo con fines educativos. Usalo bajo tu propia responsabilidad.
