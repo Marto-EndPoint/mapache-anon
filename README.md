@@ -7,7 +7,7 @@ Creada por **MARTO** · marto.endpoint@gmail.com
 
 ## 📦 Instalación
 
-1. Descargá el paquete `.deb` desde la [sección de Releases](https://github.com/tu-usuario/tu-repo/releases) o directamente desde este [link directo](https://github.com/tu-usuario/tu-repo/releases/latest/download/mapache-anon_1.0.deb).
+1. Descargá el paquete `.deb` desde la [sección de Releases](https://github.com/Marto-EndPoint/mapache-anon/releases)) o directamente desde este [link directo](https://github.com/Marto-EndPoint/mapache-anon/releases/latest/download/mapache-anon_1.0.deb).
 2. Instalalo con:
 
 ```bash
