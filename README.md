@@ -21,7 +21,7 @@ sudo dpkg -i mapache-anon_1.0.deb
 Ejecutá el menú desde la terminal:
 
 ```bash
-mapache-anon
+sudo mapache-anon
 ```
 
 ---
