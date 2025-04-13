@@ -73,4 +73,4 @@ Este script es solo con fines educativos. Usalo bajo tu propia responsabilidad.
 
 **MARTO**  
 📧 marto.endpoint@gmail.com  
-🔗 [@mapache.tech](https://instagram.com/mapache.tech)
+🔗 [Linkedin]([https://instagram.com/mapache.tech](https://www.linkedin.com/in/sergio-ignacio-martorell))
