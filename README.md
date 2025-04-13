@@ -49,7 +49,10 @@ Para que la VPN funcione, necesitás:
 ```bash
 /etc/openvpn/anon.ovpn
 ```
-
+Como mover el `.ovpn` desde `Descarcas`. te posicionas en `Descargas` y colocas
+```bash
+ sudo mv vpnbook-us178-tcp443.ovpn /etc/openvpn/anon.ovpn
+```
 ---
 
 ## 🦝 ¿Qué hace?
